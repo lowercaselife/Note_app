@@ -5,7 +5,7 @@
 Make sure you have the latest version of Python installed.
 
 ```bash
-git clone 
+git clone https://github.com/lowercaselife/Note_app.git
 ```
 
 ```bash
